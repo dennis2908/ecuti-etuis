@@ -1,0 +1,249 @@
+.form-control {
+	font-family: "Segoe UI", Arial, sans-serif !important;
+}
+
+table.dataTable thead .sorting::after, table.dataTable thead .sorting_asc::after, table.dataTable thead .sorting_desc::after, table.dataTable thead .sorting_asc_disabled::after, table.dataTable thead .sorting_desc_disabled::after {
+	content: "" !important;
+}
+
+.g-recaptcha > div {
+    margin: 0 auto;
+}
+
+.form-group-default + .error {
+    margin-top: -10px;
+}
+
+.control-label {
+	opacity: unset !important;
+}
+
+.nowrap {
+	white-space: nowrap !important;
+}
+
+.fit {
+	width:1% !important;
+    white-space:nowrap !important;
+}
+
+.clickable {
+	cursor: pointer;
+}
+
+button[data-dismiss="alert"] {
+	cursor: pointer;
+}
+
+.swal-footer {
+	background-color: rgb(245, 248, 250);
+	margin-top: 32px;
+	border-top: 1px solid #E9EEF1;
+	overflow: hidden;
+}
+.swal-text {
+	text-align: center;
+}
+
+.dt-buttons {
+	margin-top: 20px !important;
+}
+
+.search-on-button {
+	right: 0 !important;
+	position: absolute !important;
+}
+
+@media print {
+	.print-hide {
+		display: none;
+	}
+	.print-show {
+		display: block;
+	}
+	body, 
+	.page-container {
+		background: #ffffff !important;
+	}
+}
+
+.btn.btn-xs {
+    font-weight: 600;
+    font-size: 11px;
+}
+
+/*input, 
+textarea, 
+select, 
+option {
+	text-transform: uppercase !important;
+}
+
+input[name=username], 
+input[type=email], 
+input[type=password], 
+#search-table, .search-table {
+	text-transform: unset !important;
+}*/
+
+.datepicker {
+	font-size: 14px;
+}
+
+.page-sidebar {
+    width: 300px !important;
+}
+
+.page-sidebar .sidebar-menu .menu-items > li > a > .arrow {
+    padding-right: 2px !important;
+}
+
+.page-sidebar .sidebar-menu .menu-items li > a {
+    width: 77% !important;
+}
+
+.page-sidebar .sidebar-menu .menu-items > li > a > .title {
+    width: 95% !important;
+}
+
+body.menu-pin .page-container .page-content-wrapper .content {
+	padding-left: 300px !important;
+}
+
+.form-control[disabled], .form-control[readonly], fieldset[disabled] .form-control {
+    color: rgba(87, 87, 87, 0.5) !important;
+}
+
+.menu-inner-custom {
+	padding: 0px !important;
+}
+
+.menu-inner-custom a {
+	padding-left: 40px !important;
+}
+
+.menu-inner-custom .sub-menu {
+	background-color: #1e1e21 !important;
+}
+
+.main .card .card-block {
+    padding: 20px;
+    padding-top: 20px;   
+}
+
+.progress {
+    position: absolute;
+    top: 0px;
+    width: 100%;
+}
+
+.btn-group-custom {
+	float: right;
+}
+
+.modal-xl {
+	width: 1000px !important;
+	max-width: 100% !important;
+	height: 100%;
+}
+
+.notification-panel {
+	width: 100% !important;
+}
+
+.notification-panel .notification-body {
+	max-height: unset !important;
+}
+
+.form-horizontal .form-group {
+    border-bottom: unset !important;
+}
+
+.form-group-default-select2.form-group-default-custom label {
+	position: inherit !important;
+}
+
+.form-group-default-select2.form-group-default-custom .select2-selection--single {
+	padding-top: unset !important;
+	height: 35px !important;
+}
+
+.menu-inner-custom.open.active > .sub-menu {
+	display: block !important;
+}
+
+.input-group-addon {
+    background: #dedede !important;
+}
+
+.ml-md-3, .mx-md-3 {
+    margin-left: 0 !important;
+}
+
+body.menu-pin > .pgn-wrapper[data-position$="-left"],
+body.menu-pin > .pgn-wrapper[data-position="top"],
+body.menu-pin > .pgn-wrapper[data-position="bottom"] {
+    left: 300px !important;
+}
+
+.msg-connecting {
+	padding: 10px;
+	background-color: #b5c1c2;
+	color: #ffffff;
+	text-align: center;
+	font-size: small;
+	font-weight: bold;
+	position: absolute;
+	width: calc(100% - 300px);
+	height: 100%;
+	z-index: 500;
+}
+
+@media (max-width: 768px) {
+	.footer {
+		padding-left: 0px !important;
+	}
+
+	.search-on-button {
+		display: contents !important;
+	}
+}
+
+@media (min-width: 980px) {
+	.footer {
+		left: 0px !important;
+		padding-left: 330px;
+	}
+
+	.fixed-header:not(.sidebar-visible) .page-sidebar {
+	    left: -230px !important;
+	}
+
+	.fixed-header.menu-pin .page-sidebar {
+	    left: -210px !important;
+	}
+}
+
+@media (max-width: 1216px) {
+	.msg-connecting {
+		width: 100%;
+	}
+}
+
+@media (max-width: 992px) {
+	.page-sidebar.visible ~ .page-container {
+		left: 50px !important;
+	}
+
+	.jumbotron .card-block {
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+}
+
+@media (max-width: 1199px) {
+	.footer {
+		left: 0px !important;
+		padding-left: 30px;
+	}
+}

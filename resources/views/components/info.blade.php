@@ -1,0 +1,1 @@
+<i style="cursor: help; color: #48B0F7;" class="fa fa-question-circle" data-html="true" data-toggle="tooltip" title="{{ $text or 'Information about the field' }}"></i>

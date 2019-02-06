@@ -1,0 +1,43 @@
+{
+    "emails": [
+
+        {
+            "group": "Hari Ini, 23 April",
+            "list": [{
+                "id": 1,
+                "subject": "Kuiri #838: Pendaftaran Persekutuan Kesatuan Sekerja (Borang BB)",
+                "to": ["Adlan Arif Zakaria", "PPHQ"],
+                "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sodales, velit at laoreet hendrerit, tellus dui aliquet est, ac cursus velit erat et est. Quisque vitae tortor nibh. Aliquam ornare, augue ac pulvinar euismod, mi felis cursus nisl, non ultrices lacus turpis sit amet lacus. Vestibulum in lacus ut augue tincidunt lobortis id quis mauris. Morbi at fringilla lectus, non consectetur ante. Duis eleifend quis eros eu vulputate. Praesent sit amet dolor eros. Ut aliquam eros sed ante facilisis, ac venenatis diam feugiat.</p><p>Phasellus est massa, luctus eget volutpat id, semper nec elit. Nam ligula nunc, pharetra ac sodales porta, consectetur in est. Suspendisse mauris mauris, sagittis eu tristique ac, lacinia sed nisl. Nulla ut eros ac erat dignissim pellentesque sit amet ut tellus. Nunc at risus sed lacus commodo fringilla. Curabitur laoreet condimentum facilisis. Donec eget pellentesque massa.</p> ",
+                "time": "5 Mins ago",
+                "datetime" : "Today at 1:33pm",
+                "from": "David Nester",
+                "dp": "assets/img/profiles/avatar.jpg",
+                "dpRetina": "assets/img/profiles/avatar2x.jpg"
+            }, {
+                "id": 2,
+                "subject": "Kuiri #789: Pendaftaran Persekutuan Kesatuan Sekerja (Borang BB)",
+                "to": ["Puteri Zulaiha", "PPW"],
+                "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sodales, velit at laoreet hendrerit, tellus dui aliquet est, ac cursus velit erat et est. Quisque vitae tortor nibh. Aliquam ornare, augue ac pulvinar euismod, mi felis cursus nisl, non ultrices lacus turpis sit amet lacus. Vestibulum in lacus ut augue tincidunt lobortis id quis mauris. Morbi at fringilla lectus, non consectetur ante. Duis eleifend quis eros eu vulputate. Praesent sit amet dolor eros. Ut aliquam eros sed ante facilisis, ac venenatis diam feugiat.</p><p>Phasellus est massa, luctus eget volutpat id, semper nec elit. Nam ligula nunc, pharetra ac sodales porta, consectetur in est. Suspendisse mauris mauris, sagittis eu tristique ac, lacinia sed nisl. Nulla ut eros ac erat dignissim pellentesque sit amet ut tellus. Nunc at risus sed lacus commodo fringilla. Curabitur laoreet condimentum facilisis. Donec eget pellentesque massa.</p> ",
+                "time": "45 mins ago",
+                "datetime" : "Today at 1:33pm",
+                "from": "Anne Simons",
+                "dp": "assets/img/profiles/5.jpg",
+                "dpRetina": "assets/img/profiles/5x.jpg"
+            }]
+        }, {
+            "group": "22 April",
+            "list": [{
+                "id": 6,
+                "subject": "Notifikasi #895: Kelewatan kemuka buku peraturan",
+                "to": ["Sistem e-TUIS"],
+                "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sodales, velit at laoreet hendrerit, tellus dui aliquet est, ac cursus velit erat et est. Quisque vitae tortor nibh. Aliquam ornare, augue ac pulvinar euismod, mi felis cursus nisl, non ultrices lacus turpis sit amet lacus. Vestibulum in lacus ut augue tincidunt lobortis id quis mauris. Morbi at fringilla lectus, non consectetur ante. Duis eleifend quis eros eu vulputate. Praesent sit amet dolor eros. Ut aliquam eros sed ante facilisis, ac venenatis diam feugiat.</p><p>Phasellus est massa, luctus eget volutpat id, semper nec elit. Nam ligula nunc, pharetra ac sodales porta, consectetur in est. Suspendisse mauris mauris, sagittis eu tristique ac, lacinia sed nisl. Nulla ut eros ac erat dignissim pellentesque sit amet ut tellus. Nunc at risus sed lacus commodo fringilla. Curabitur laoreet condimentum facilisis. Donec eget pellentesque massa.</p> ",
+                "time": "1:33pm",
+                "datetime" : "Today at 1:33pm",
+                "from": "David Nester",
+                "dp": "assets/img/profiles/b.jpg",
+                "dpRetina": "assets/img/profiles/b2x.jpg"
+            }]
+        }
+
+    ]
+}
