@@ -1,0 +1,23 @@
+{
+    "name": "scsuoft/laravel-exception-notification",
+    "version": "2.4.2",
+    "description": "Exceptions notification.",
+    "keywords": [],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sam Wang",
+            "email": "sss.wang@utoronto.ca"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0",
+        "razorpay/slack-laravel": "1.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "LaravelExceptionNotification\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
